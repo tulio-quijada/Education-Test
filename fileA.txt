@@ -1,6 +1,8 @@
 feature 10
 feature test master after commit in branch feature2
 
+feature 2
+
 feature new, revisar posible conflicto. este cambio se dio en el branch feature3
 
 feature new 2, revisar posible conflicto. este cambio se dio en el branch master
