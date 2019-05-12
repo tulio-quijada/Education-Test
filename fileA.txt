@@ -8,3 +8,5 @@ feature new, revisar posible conflicto. este cambio se dio en el branch feature3
 feature new 2, revisar posible conflicto. este cambio se dio en el branch master
 
 prueba pull comand
+
+prueba pull comand 2
